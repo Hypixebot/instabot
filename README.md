@@ -6,7 +6,7 @@ An Instagram bot focused on acting human, powered by ChatGPT, instagram-private-
 
 ```shell
 # clone repository
-git clone (https://github.com/Hypixebot/instabot.git)
+git clone https://github.com/Hypixebot/instabot.git
 
 # install modules
 npm install
